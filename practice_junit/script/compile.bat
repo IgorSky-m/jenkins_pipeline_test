@@ -1,1 +1,1 @@
-mvn -f ../ clean
+mvn -f practice_junit/ clean

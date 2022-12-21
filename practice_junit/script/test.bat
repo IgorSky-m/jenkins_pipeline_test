@@ -1,1 +1,1 @@
-mvn -f ../ test
+mvn -f practice_junit/ test
