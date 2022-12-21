@@ -1,9 +1,0 @@
-org\example\entities\Calculator.class
-org\example\entities\rest\api_case\MyEntity.class
-org\example\entities\rest\api_case\MyService.class
-org\example\entities\rest\api_case\MyEntity$MyEntityBuilder.class
-org\example\advice\ExceptionHandlerAdvice.class
-org\example\JUnitPractice.class
-org\example\entities\rest\api_case\api\IMyEntityRepository.class
-org\example\entities\rest\api_case\api\IMyService.class
-org\example\entities\rest\api_case\MyController.class
