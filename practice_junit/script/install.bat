@@ -1,1 +1,1 @@
-mvn -f practice_junit/ in   stall -DskipTests
+mvn -f practice_junit/ install -DskipTests
